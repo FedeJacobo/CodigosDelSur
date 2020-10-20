@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Implementacion">
+      <UniqueIdentifier>{5f63c92d-1635-4d7e-a513-4bf82e999fe4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Implementacion\Prioridad">
+      <UniqueIdentifier>{37170d4b-916d-4416-bf38-4bc132d234e2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="TADs">
+      <UniqueIdentifier>{a8ff116a-5b89-496d-991e-690e1ce9a61d}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Implementacion</Filter>
+    </ClCompile>
+    <ClCompile Include="Tablero.cpp">
+      <Filter>Implementacion</Filter>
+    </ClCompile>
+    <ClCompile Include="CasoDePrueba.cpp">
+      <Filter>Implementacion</Filter>
+    </ClCompile>
+    <ClCompile Include="Sistema.cpp">
+      <Filter>Implementacion</Filter>
+    </ClCompile>
+    <ClCompile Include="PrioridadA.cpp">
+      <Filter>Implementacion\Prioridad</Filter>
+    </ClCompile>
+    <ClCompile Include="PrioridadB.cpp">
+      <Filter>Implementacion\Prioridad</Filter>
+    </ClCompile>
+    <ClCompile Include="SistemaTemplates.cpp">
+      <Filter>Implementacion</Filter>
+    </ClCompile>
+    <ClCompile Include="ColaPrioridadExtendidaHeap.cpp">
+      <Filter>TADs</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Tablero.h">
+      <Filter>Implementacion</Filter>
+    </ClInclude>
+    <ClInclude Include="CasoDePrueba.h">
+      <Filter>Implementacion</Filter>
+    </ClInclude>
+    <ClInclude Include="Sistema.h">
+      <Filter>Implementacion</Filter>
+    </ClInclude>
+    <ClInclude Include="Prioridad.h">
+      <Filter>Implementacion\Prioridad</Filter>
+    </ClInclude>
+    <ClInclude Include="PrioridadA.h">
+      <Filter>Implementacion\Prioridad</Filter>
+    </ClInclude>
+    <ClInclude Include="PrioridadB.h">
+      <Filter>Implementacion\Prioridad</Filter>
+    </ClInclude>
+    <ClInclude Include="ColaPrioridadExtendida.h">
+      <Filter>TADs</Filter>
+    </ClInclude>
+    <ClInclude Include="ColaPrioridadExtendidaHeap.h">
+      <Filter>TADs</Filter>
+    </ClInclude>
+    <ClInclude Include="CompIntPrioridad.h">
+      <Filter>Implementacion\Prioridad</Filter>
+    </ClInclude>
+    <ClInclude Include="CompTablero.h">
+      <Filter>Implementacion</Filter>
+    </ClInclude>
+    <ClInclude Include="FHashTablero.h">
+      <Filter>Implementacion</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

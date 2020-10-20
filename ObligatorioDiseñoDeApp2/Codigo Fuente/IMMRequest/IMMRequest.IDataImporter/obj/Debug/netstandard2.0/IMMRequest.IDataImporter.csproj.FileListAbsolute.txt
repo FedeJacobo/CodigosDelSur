@@ -1,0 +1,12 @@
+D:\Documentos\194257-205110\Codigo Fuente\IMMRequest\IMMRequest.IDataImporter\bin\Debug\netstandard2.0\IMMRequest.IDataImporter.deps.json
+D:\Documentos\194257-205110\Codigo Fuente\IMMRequest\IMMRequest.IDataImporter\bin\Debug\netstandard2.0\IMMRequest.IDataImporter.dll
+D:\Documentos\194257-205110\Codigo Fuente\IMMRequest\IMMRequest.IDataImporter\bin\Debug\netstandard2.0\IMMRequest.IDataImporter.pdb
+D:\Documentos\194257-205110\Codigo Fuente\IMMRequest\IMMRequest.IDataImporter\bin\Debug\netstandard2.0\IMMRequest.Entities.dll
+D:\Documentos\194257-205110\Codigo Fuente\IMMRequest\IMMRequest.IDataImporter\bin\Debug\netstandard2.0\IMMRequest.Entities.pdb
+D:\Documentos\194257-205110\Codigo Fuente\IMMRequest\IMMRequest.IDataImporter\obj\Debug\netstandard2.0\IMMRequest.IDataImporter.csprojAssemblyReference.cache
+D:\Documentos\194257-205110\Codigo Fuente\IMMRequest\IMMRequest.IDataImporter\obj\Debug\netstandard2.0\IMMRequest.IDataImporter.AssemblyInfoInputs.cache
+D:\Documentos\194257-205110\Codigo Fuente\IMMRequest\IMMRequest.IDataImporter\obj\Debug\netstandard2.0\IMMRequest.IDataImporter.AssemblyInfo.cs
+D:\Documentos\194257-205110\Codigo Fuente\IMMRequest\IMMRequest.IDataImporter\obj\Debug\netstandard2.0\IMMRequest.IDataImporter.csproj.CopyComplete
+D:\Documentos\194257-205110\Codigo Fuente\IMMRequest\IMMRequest.IDataImporter\obj\Debug\netstandard2.0\IMMRequest.IDataImporter.dll
+D:\Documentos\194257-205110\Codigo Fuente\IMMRequest\IMMRequest.IDataImporter\obj\Debug\netstandard2.0\IMMRequest.IDataImporter.pdb
+D:\Documentos\194257-205110\Codigo Fuente\IMMRequest\IMMRequest.IDataImporter\obj\Debug\netstandard2.0\IMMRequest.IDataImporter.csproj.CoreCompileInputs.cache

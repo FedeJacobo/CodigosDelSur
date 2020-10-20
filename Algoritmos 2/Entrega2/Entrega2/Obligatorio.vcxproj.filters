@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Obligatorio">
+      <UniqueIdentifier>{288f1f99-c3c9-4721-83c2-89f1e1834f2d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Obligatorio\Pruebas">
+      <UniqueIdentifier>{ec6ed5e1-1060-4607-b4f7-9efbc68609a8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Implementacion">
+      <UniqueIdentifier>{5f63c92d-1635-4d7e-a513-4bf82e999fe4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Implementacion\Tads">
+      <UniqueIdentifier>{dbba3574-390f-48f9-ac1c-47e7674383f7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Implementacion\Tads\Tabla">
+      <UniqueIdentifier>{78ef1dad-fabb-4569-a015-c450d0d2e374}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Implementacion\Tads\Tabla\Hash abierto">
+      <UniqueIdentifier>{1e9629fb-7fe8-469c-9673-0d32c02f8074}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Implementacion\Tads\Tabla\Hash cerrado">
+      <UniqueIdentifier>{cbe26b60-f282-4c91-b50b-6c27dd27732d}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="CasoDePrueba.cpp">
+      <Filter>Obligatorio\Pruebas</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Implementacion</Filter>
+    </ClCompile>
+    <ClCompile Include="Sistema.cpp">
+      <Filter>Implementacion</Filter>
+    </ClCompile>
+    <ClCompile Include="SistemaTemplates.cpp">
+      <Filter>Implementacion</Filter>
+    </ClCompile>
+    <ClCompile Include="TablaHashA.cpp">
+      <Filter>Implementacion\Tads\Tabla\Hash abierto</Filter>
+    </ClCompile>
+    <ClCompile Include="TablaHashC.cpp">
+      <Filter>Implementacion\Tads\Tabla\Hash cerrado</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="CasoDePrueba.h">
+      <Filter>Obligatorio\Pruebas</Filter>
+    </ClInclude>
+    <ClInclude Include="Sistema.h">
+      <Filter>Implementacion</Filter>
+    </ClInclude>
+    <ClInclude Include="NodoArbol.h">
+      <Filter>Implementacion</Filter>
+    </ClInclude>
+    <ClInclude Include="Tabla.h">
+      <Filter>Implementacion\Tads\Tabla</Filter>
+    </ClInclude>
+    <ClInclude Include="TablaHashA.h">
+      <Filter>Implementacion\Tads\Tabla\Hash abierto</Filter>
+    </ClInclude>
+    <ClInclude Include="NodoLista.h">
+      <Filter>Implementacion</Filter>
+    </ClInclude>
+    <ClInclude Include="TablaHashC.h">
+      <Filter>Implementacion\Tads\Tabla\Hash cerrado</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

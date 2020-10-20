@@ -1,0 +1,21 @@
+﻿  Array.cpp
+  ArrayIteracion.cpp
+  Puntero.cpp
+  Cadena.cpp
+  Comparador.cpp
+  CadenaFuncionHash.cpp
+  ConcatIteracion.cpp
+  ConvertIteracion.cpp
+  Iterador.cpp
+  Matriz.cpp
+  MatrizIteracion.cpp
+  MemoryShare.cpp
+  ConductorPrueba.cpp
+  EstadisticaPrueba.cpp
+  ManejadorImpresion.cpp
+  ManejadorImpresionTxt.cpp
+  ManejadorImpresionXml.cpp
+  Prueba.cpp
+  PruebaMemoria.cpp
+  Tupla.cpp
+  Framework.vcxproj -> C:\Users\Usuario\Dropbox\FACULTAD\Semestre 4\Algoritmos 2 recursada\Entrega4\Entrega4\Framework\Debug\Framework.lib

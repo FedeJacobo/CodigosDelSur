@@ -1,0 +1,12 @@
+D:\Documentos\194257-205110\Codigo Fuente\IMMRequest\IMMRequest.DataAccess\bin\Debug\netstandard2.0\IMMRequest.DataAccess.deps.json
+D:\Documentos\194257-205110\Codigo Fuente\IMMRequest\IMMRequest.DataAccess\bin\Debug\netstandard2.0\IMMRequest.DataAccess.dll
+D:\Documentos\194257-205110\Codigo Fuente\IMMRequest\IMMRequest.DataAccess\bin\Debug\netstandard2.0\IMMRequest.DataAccess.pdb
+D:\Documentos\194257-205110\Codigo Fuente\IMMRequest\IMMRequest.DataAccess\bin\Debug\netstandard2.0\IMMRequest.Entities.dll
+D:\Documentos\194257-205110\Codigo Fuente\IMMRequest\IMMRequest.DataAccess\bin\Debug\netstandard2.0\IMMRequest.Entities.pdb
+D:\Documentos\194257-205110\Codigo Fuente\IMMRequest\IMMRequest.DataAccess\obj\Debug\netstandard2.0\IMMRequest.DataAccess.csprojAssemblyReference.cache
+D:\Documentos\194257-205110\Codigo Fuente\IMMRequest\IMMRequest.DataAccess\obj\Debug\netstandard2.0\IMMRequest.DataAccess.AssemblyInfoInputs.cache
+D:\Documentos\194257-205110\Codigo Fuente\IMMRequest\IMMRequest.DataAccess\obj\Debug\netstandard2.0\IMMRequest.DataAccess.AssemblyInfo.cs
+D:\Documentos\194257-205110\Codigo Fuente\IMMRequest\IMMRequest.DataAccess\obj\Debug\netstandard2.0\IMMRequest.DataAccess.csproj.CopyComplete
+D:\Documentos\194257-205110\Codigo Fuente\IMMRequest\IMMRequest.DataAccess\obj\Debug\netstandard2.0\IMMRequest.DataAccess.dll
+D:\Documentos\194257-205110\Codigo Fuente\IMMRequest\IMMRequest.DataAccess\obj\Debug\netstandard2.0\IMMRequest.DataAccess.pdb
+D:\Documentos\194257-205110\Codigo Fuente\IMMRequest\IMMRequest.DataAccess\obj\Debug\netstandard2.0\IMMRequest.DataAccess.csproj.CoreCompileInputs.cache

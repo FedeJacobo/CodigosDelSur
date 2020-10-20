@@ -1,0 +1,17 @@
+
+
+
+********************************************* Pruebas Memoria ERROR *********************************************
+
+
+
+----------------------------- Testeo --------------------------------
+  Comentario: Los Punteros y Arrays usados se liberaron correctamente
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+  +------------------------------+
+    Pruebas Correctas : 1
+    Pruebas Incorrectas: 0
+    Pruebas NI: 0
+  +------------------------------+

@@ -1,0 +1,9 @@
+D:\Documentos\194257-205110\Codigo Fuente\IMMRequest\IMMRequest.Entities\bin\Release\netstandard2.0\IMMRequest.Entities.deps.json
+D:\Documentos\194257-205110\Codigo Fuente\IMMRequest\IMMRequest.Entities\bin\Release\netstandard2.0\IMMRequest.Entities.dll
+D:\Documentos\194257-205110\Codigo Fuente\IMMRequest\IMMRequest.Entities\bin\Release\netstandard2.0\IMMRequest.Entities.pdb
+D:\Documentos\194257-205110\Codigo Fuente\IMMRequest\IMMRequest.Entities\obj\Release\netstandard2.0\IMMRequest.Entities.csprojAssemblyReference.cache
+D:\Documentos\194257-205110\Codigo Fuente\IMMRequest\IMMRequest.Entities\obj\Release\netstandard2.0\IMMRequest.Entities.AssemblyInfoInputs.cache
+D:\Documentos\194257-205110\Codigo Fuente\IMMRequest\IMMRequest.Entities\obj\Release\netstandard2.0\IMMRequest.Entities.AssemblyInfo.cs
+D:\Documentos\194257-205110\Codigo Fuente\IMMRequest\IMMRequest.Entities\obj\Release\netstandard2.0\IMMRequest.Entities.dll
+D:\Documentos\194257-205110\Codigo Fuente\IMMRequest\IMMRequest.Entities\obj\Release\netstandard2.0\IMMRequest.Entities.pdb
+D:\Documentos\194257-205110\Codigo Fuente\IMMRequest\IMMRequest.Entities\obj\Release\netstandard2.0\IMMRequest.Entities.csproj.CoreCompileInputs.cache

@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Obligatorio">
+      <UniqueIdentifier>{288f1f99-c3c9-4721-83c2-89f1e1834f2d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Obligatorio\Pruebas">
+      <UniqueIdentifier>{ec6ed5e1-1060-4607-b4f7-9efbc68609a8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Obligatorio\Implementacion">
+      <UniqueIdentifier>{5f63c92d-1635-4d7e-a513-4bf82e999fe4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Obligatorio\Tads">
+      <UniqueIdentifier>{dbba3574-390f-48f9-ac1c-47e7674383f7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Obligatorio\Tads\Tabla">
+      <UniqueIdentifier>{faba0a00-3958-486c-968a-bf1137b588bd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="comparaciones">
+      <UniqueIdentifier>{4b28dba6-ba30-48f4-ba0c-db4fe5a5d7c0}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="CasoDePrueba.cpp">
+      <Filter>Obligatorio\Pruebas</Filter>
+    </ClCompile>
+    <ClCompile Include="Sistema.cpp">
+      <Filter>Obligatorio\Implementacion</Filter>
+    </ClCompile>
+    <ClCompile Include="SistemaTemplates.cpp">
+      <Filter>Obligatorio\Implementacion</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Obligatorio</Filter>
+    </ClCompile>
+    <ClCompile Include="GrafoImp.cpp">
+      <Filter>Obligatorio\Tads</Filter>
+    </ClCompile>
+    <ClCompile Include="TablaHashA.cpp">
+      <Filter>Obligatorio\Tads\Tabla</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="CasoDePrueba.h">
+      <Filter>Obligatorio\Pruebas</Filter>
+    </ClInclude>
+    <ClInclude Include="Sistema.h">
+      <Filter>Obligatorio\Implementacion</Filter>
+    </ClInclude>
+    <ClInclude Include="Grafo.h">
+      <Filter>Obligatorio\Tads</Filter>
+    </ClInclude>
+    <ClInclude Include="FuncionCosto.h">
+      <Filter>Obligatorio\Tads</Filter>
+    </ClInclude>
+    <ClInclude Include="GrafoImp.h">
+      <Filter>Obligatorio\Tads</Filter>
+    </ClInclude>
+    <ClInclude Include="Tabla.h">
+      <Filter>Obligatorio\Tads\Tabla</Filter>
+    </ClInclude>
+    <ClInclude Include="NodoLista.h">
+      <Filter>Obligatorio\Tads</Filter>
+    </ClInclude>
+    <ClInclude Include="TablaHashA.h">
+      <Filter>Obligatorio\Tads\Tabla</Filter>
+    </ClInclude>
+    <ClInclude Include="Nodo.h">
+      <Filter>Obligatorio\Tads</Filter>
+    </ClInclude>
+    <ClInclude Include="ComparacionCosto.h">
+      <Filter>comparaciones</Filter>
+    </ClInclude>
+    <ClInclude Include="ComparacionTiempo.h">
+      <Filter>comparaciones</Filter>
+    </ClInclude>
+    <ClInclude Include="ComparacionCiudades.h">
+      <Filter>comparaciones</Filter>
+    </ClInclude>
+    <ClInclude Include="ComparacionOmnibus.h">
+      <Filter>comparaciones</Filter>
+    </ClInclude>
+    <ClInclude Include="ComparacionAvion.h">
+      <Filter>comparaciones</Filter>
+    </ClInclude>
+    <ClInclude Include="ComparacionParadas.h">
+      <Filter>comparaciones</Filter>
+    </ClInclude>
+    <ClInclude Include="ComparacionMasBaratoOmnibos.h">
+      <Filter>comparaciones</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

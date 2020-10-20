@@ -1,0 +1,16 @@
+D:\Documentos\194257-205110\Codigo Fuente\IMMRequest\IMMRequest.BusinessLogic\bin\Debug\netstandard2.0\IMMRequest.BusinessLogic.deps.json
+D:\Documentos\194257-205110\Codigo Fuente\IMMRequest\IMMRequest.BusinessLogic\bin\Debug\netstandard2.0\IMMRequest.BusinessLogic.dll
+D:\Documentos\194257-205110\Codigo Fuente\IMMRequest\IMMRequest.BusinessLogic\bin\Debug\netstandard2.0\IMMRequest.BusinessLogic.pdb
+D:\Documentos\194257-205110\Codigo Fuente\IMMRequest\IMMRequest.BusinessLogic\bin\Debug\netstandard2.0\IMMRequest.DataAccess.dll
+D:\Documentos\194257-205110\Codigo Fuente\IMMRequest\IMMRequest.BusinessLogic\bin\Debug\netstandard2.0\IMMRequest.Entities.dll
+D:\Documentos\194257-205110\Codigo Fuente\IMMRequest\IMMRequest.BusinessLogic\bin\Debug\netstandard2.0\IMMRequest.IDataImporter.dll
+D:\Documentos\194257-205110\Codigo Fuente\IMMRequest\IMMRequest.BusinessLogic\bin\Debug\netstandard2.0\IMMRequest.DataAccess.pdb
+D:\Documentos\194257-205110\Codigo Fuente\IMMRequest\IMMRequest.BusinessLogic\bin\Debug\netstandard2.0\IMMRequest.IDataImporter.pdb
+D:\Documentos\194257-205110\Codigo Fuente\IMMRequest\IMMRequest.BusinessLogic\bin\Debug\netstandard2.0\IMMRequest.Entities.pdb
+D:\Documentos\194257-205110\Codigo Fuente\IMMRequest\IMMRequest.BusinessLogic\obj\Debug\netstandard2.0\IMMRequest.BusinessLogic.csprojAssemblyReference.cache
+D:\Documentos\194257-205110\Codigo Fuente\IMMRequest\IMMRequest.BusinessLogic\obj\Debug\netstandard2.0\IMMRequest.BusinessLogic.AssemblyInfoInputs.cache
+D:\Documentos\194257-205110\Codigo Fuente\IMMRequest\IMMRequest.BusinessLogic\obj\Debug\netstandard2.0\IMMRequest.BusinessLogic.AssemblyInfo.cs
+D:\Documentos\194257-205110\Codigo Fuente\IMMRequest\IMMRequest.BusinessLogic\obj\Debug\netstandard2.0\IMMRequest.BusinessLogic.csproj.CopyComplete
+D:\Documentos\194257-205110\Codigo Fuente\IMMRequest\IMMRequest.BusinessLogic\obj\Debug\netstandard2.0\IMMRequest.BusinessLogic.dll
+D:\Documentos\194257-205110\Codigo Fuente\IMMRequest\IMMRequest.BusinessLogic\obj\Debug\netstandard2.0\IMMRequest.BusinessLogic.pdb
+D:\Documentos\194257-205110\Codigo Fuente\IMMRequest\IMMRequest.BusinessLogic\obj\Debug\netstandard2.0\IMMRequest.BusinessLogic.csproj.CoreCompileInputs.cache

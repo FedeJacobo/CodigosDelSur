@@ -1,0 +1,438 @@
+********************************************* Pruebas Cola de Prioridad Extendida OK *********************************************
+
+
+
+----------------------------- Testeo --------------------------------
+  Comentario: La cola no debe ser nula.
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: La cola no est· llena.
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: La cola est· vacÌa.
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: El largo de la cola es 1.
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: La cola no est· vacÌa.
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: elemento1 pertenece a la cola.
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: El elemento de mayor prioridad es elemento1.
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: elemento1 tiene prioridad 1
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: El largo de la cola es 0.
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: La cola est· vacÌa.
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: El largo de la cola es 8.
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: elemento0 esta definida.
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: La prioridad del elemento: elemento0 es 
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: elemento1 esta definida.
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: La prioridad del elemento: elemento1 es 
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: elemento2 esta definida.
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: La prioridad del elemento: elemento2 es 
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: elemento3 esta definida.
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: La prioridad del elemento: elemento3 es 
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: elemento4 esta definida.
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: La prioridad del elemento: elemento4 es Tê∆
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: elemento5 esta definida.
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: La prioridad del elemento: elemento5 es ê∆
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: elemento6 esta definida.
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: La prioridad del elemento: elemento6 es ∆
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: elemento7 esta definida.
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: La prioridad del elemento: elemento7 es 
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: Se obtuvo  elemento7 - 7  correctamente
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: Se obtuvo  elemento6 - 6  correctamente
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: Se obtuvo  elemento5 - 5  correctamente
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: Se obtuvo  elemento3 - 3  correctamente
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: Se obtuvo  elemento2 - 2  correctamente
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: Se obtuvo  elemento1 - 1  correctamente
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: Se obtuvo  elemento4 - 4  correctamente
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: Se obtuvo  elemento0 - 0  correctamente
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: La cola est· vacÌa.
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: El largo de la cola es 0.
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+
+
+********************************************* Pruebas Prioridad A OK *********************************************
+
+
+
+
+
+********************************************* Pruebas Pruebas Tablero 1 OK *********************************************
+
+
+
+----------------------------- Testeo --------------------------------
+  Comentario: El tablero tiene solucion
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: Se obtuvo 100 y se esperaba 2 movimientos
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: Se hace un movimiento inv·lido en el tablero.
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+
+
+********************************************* Pruebas Pruebas Tablero 2 OK *********************************************
+
+
+
+----------------------------- Testeo --------------------------------
+  Comentario: El tablero tiene solucion
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: Se obtuvo 3 y se esperaba 3 movimientos
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: Se hace un movimiento inv·lido en el tablero.
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+
+
+********************************************* Pruebas Pruebas Tablero 3 OK *********************************************
+
+
+
+----------------------------- Testeo --------------------------------
+  Comentario: El tablero tiene solucion
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: Se obtuvo 3 y se esperaba 5 movimientos
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: Se hace un movimiento inv·lido en el tablero.
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+
+
+********************************************* Pruebas Pruebas Tablero 4 OK *********************************************
+
+
+
+----------------------------- Testeo --------------------------------
+  Comentario: El tablero tiene solucion
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: Se obtuvo 100 y se esperaba 8 movimientos
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: Se hace un movimiento inv·lido en el tablero.
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+
+
+********************************************* Pruebas Pruebas Tablero 5 OK *********************************************
+
+
+
+----------------------------- Testeo --------------------------------
+  Comentario: El tablero tiene solucion
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: Se obtuvo 100 y se esperaba 10 movimientos
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: Se hace un movimiento inv·lido en el tablero.
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+
+
+********************************************* Pruebas Pruebas Tablero 6 OK *********************************************
+
+
+
+----------------------------- Testeo --------------------------------
+  Comentario: El tablero no tiene solucion
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+
+
+********************************************* Pruebas Prioridad B OK *********************************************
+
+
+
+
+
+********************************************* Pruebas Pruebas Tablero 1 OK *********************************************
+
+
+
+----------------------------- Testeo --------------------------------
+  Comentario: El tablero tiene solucion
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: Se obtuvo 100 y se esperaba 2 movimientos
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: Se hace un movimiento inv·lido en el tablero.
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+
+
+********************************************* Pruebas Pruebas Tablero 2 OK *********************************************
+
+
+
+----------------------------- Testeo --------------------------------
+  Comentario: El tablero tiene solucion
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: Se obtuvo 3 y se esperaba 3 movimientos
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: Se hace un movimiento inv·lido en el tablero.
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+
+
+********************************************* Pruebas Pruebas Tablero 3 OK *********************************************
+
+
+
+----------------------------- Testeo --------------------------------
+  Comentario: El tablero tiene solucion
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: Se obtuvo 3 y se esperaba 5 movimientos
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: Se hace un movimiento inv·lido en el tablero.
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+
+
+********************************************* Pruebas Pruebas Tablero 4 OK *********************************************
+
+
+
+----------------------------- Testeo --------------------------------
+  Comentario: El tablero tiene solucion
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: Se obtuvo 100 y se esperaba 8 movimientos
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: Se hace un movimiento inv·lido en el tablero.
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+
+
+********************************************* Pruebas Pruebas Tablero 5 OK *********************************************
+
+
+
+----------------------------- Testeo --------------------------------
+  Comentario: El tablero tiene solucion
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: Se obtuvo 100 y se esperaba 10 movimientos
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: Se hace un movimiento inv·lido en el tablero.
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+
+
+********************************************* Pruebas Pruebas Tablero 6 OK *********************************************
+
+
+
+----------------------------- Testeo --------------------------------
+  Comentario: El tablero no tiene solucion
+  Retorno obtenido OK
+---------------------------------------------------------------------
+
+  +------------------------------+
+    Pruebas Correctas : 51
+    Pruebas Incorrectas: 18
+    Pruebas NI: 0
+  +------------------------------+

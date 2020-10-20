@@ -1,0 +1,30 @@
+<root>
+	<Areas>
+		<AreaEntity>
+			<Name>Area_One</Name>
+		</AreaEntity>
+		<AreaEntity>
+			<Name>Area_Two</Name>
+		</AreaEntity>
+	</Areas>
+	<Topics>
+		<TopicEntity>
+			<Name>Topic_One</Name>
+			<AreaEntityId>2</AreaEntityId>
+		</TopicEntity>
+		<TopicEntity>
+			<Name>Topic_Two</Name>
+			<AreaEntityId>2</AreaEntityId>
+		</TopicEntity>
+	</Topics>
+	<Types>
+		<TypeReqEntity>
+			<Name>TypeReq_One</Name>
+			<TopicEntityId>1</TopicEntityId>
+		</TypeReqEntity>
+		<TypeReqEntity>
+			<Name>TypeReq_Two</Name>
+			<TopicEntityId>2</TopicEntityId>
+		</TypeReqEntity>
+	</Types>
+</root>

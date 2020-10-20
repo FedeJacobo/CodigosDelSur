@@ -1,0 +1,2742 @@
+
+
+
+********************************************* Pruebas Memoria ERROR *********************************************
+
+
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 2
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+----------------------------- Testeo --------------------------------
+  Comentario: No se liberó memoria del tipo: Puntero<NodoLista<Tupla<Cadena,Cadena>>>. Contador de referencias: 1
+  Retorno obtenido ERROR, se esperaba OK
+---------------------------------------------------------------------
+
+  +------------------------------+
+    Pruebas Correctas : 0
+    Pruebas Incorrectas: 546
+    Pruebas NI: 0
+  +------------------------------+

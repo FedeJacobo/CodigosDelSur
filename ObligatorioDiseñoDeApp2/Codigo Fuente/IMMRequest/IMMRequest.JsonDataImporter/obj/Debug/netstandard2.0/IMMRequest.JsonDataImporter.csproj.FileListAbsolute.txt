@@ -1,0 +1,13 @@
+D:\Documentos\194257-205110\Codigo Fuente\IMMRequest\IMMRequest.JsonDataImporter\bin\Debug\netstandard2.0\IMMRequest.JsonDataImporter.deps.json
+D:\Documentos\194257-205110\Codigo Fuente\IMMRequest\IMMRequest.JsonDataImporter\bin\Debug\netstandard2.0\IMMRequest.JsonDataImporter.dll
+D:\Documentos\194257-205110\Codigo Fuente\IMMRequest\IMMRequest.JsonDataImporter\bin\Debug\netstandard2.0\IMMRequest.JsonDataImporter.pdb
+D:\Documentos\194257-205110\Codigo Fuente\IMMRequest\IMMRequest.JsonDataImporter\bin\Debug\netstandard2.0\IMMRequest.Entities.dll
+D:\Documentos\194257-205110\Codigo Fuente\IMMRequest\IMMRequest.JsonDataImporter\bin\Debug\netstandard2.0\IMMRequest.IDataImporter.dll
+D:\Documentos\194257-205110\Codigo Fuente\IMMRequest\IMMRequest.JsonDataImporter\bin\Debug\netstandard2.0\IMMRequest.IDataImporter.pdb
+D:\Documentos\194257-205110\Codigo Fuente\IMMRequest\IMMRequest.JsonDataImporter\bin\Debug\netstandard2.0\IMMRequest.Entities.pdb
+D:\Documentos\194257-205110\Codigo Fuente\IMMRequest\IMMRequest.JsonDataImporter\obj\Debug\netstandard2.0\IMMRequest.JsonDataImporter.csprojAssemblyReference.cache
+D:\Documentos\194257-205110\Codigo Fuente\IMMRequest\IMMRequest.JsonDataImporter\obj\Debug\netstandard2.0\IMMRequest.JsonDataImporter.AssemblyInfoInputs.cache
+D:\Documentos\194257-205110\Codigo Fuente\IMMRequest\IMMRequest.JsonDataImporter\obj\Debug\netstandard2.0\IMMRequest.JsonDataImporter.AssemblyInfo.cs
+D:\Documentos\194257-205110\Codigo Fuente\IMMRequest\IMMRequest.JsonDataImporter\obj\Debug\netstandard2.0\IMMRequest.JsonDataImporter.csproj.CopyComplete
+D:\Documentos\194257-205110\Codigo Fuente\IMMRequest\IMMRequest.JsonDataImporter\obj\Debug\netstandard2.0\IMMRequest.JsonDataImporter.dll
+D:\Documentos\194257-205110\Codigo Fuente\IMMRequest\IMMRequest.JsonDataImporter\obj\Debug\netstandard2.0\IMMRequest.JsonDataImporter.pdb

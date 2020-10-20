@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Obligatorio">
+      <UniqueIdentifier>{288f1f99-c3c9-4721-83c2-89f1e1834f2d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Obligatorio\Pruebas">
+      <UniqueIdentifier>{ec6ed5e1-1060-4607-b4f7-9efbc68609a8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Obligatorio\Interfaces">
+      <UniqueIdentifier>{2a4b271d-48c4-419b-ad77-37e36699f80c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Implementacion">
+      <UniqueIdentifier>{5f63c92d-1635-4d7e-a513-4bf82e999fe4}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="CasoDePrueba.cpp">
+      <Filter>Obligatorio\Pruebas</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Implementacion</Filter>
+    </ClCompile>
+    <ClCompile Include="PruebasMock.cpp">
+      <Filter>Obligatorio\Pruebas</Filter>
+    </ClCompile>
+    <ClCompile Include="Sistema.cpp">
+      <Filter>Implementacion</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="CasoDePrueba.h">
+      <Filter>Obligatorio\Pruebas</Filter>
+    </ClInclude>
+    <ClInclude Include="ISistema.h">
+      <Filter>Obligatorio\Interfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="ICiudad.h">
+      <Filter>Obligatorio\Interfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="PruebasMock.h">
+      <Filter>Obligatorio\Pruebas</Filter>
+    </ClInclude>
+    <ClInclude Include="Sistema.h">
+      <Filter>Implementacion</Filter>
+    </ClInclude>
+    <ClInclude Include="Producto.h">
+      <Filter>Obligatorio\Interfaces</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
